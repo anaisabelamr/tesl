@@ -74,3 +74,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTOR_BHRUNNO.md)
 - Victor Hugo Azevedo Ferreira (victorhugo543af@gmail.com, [@VictorBSI](https://github.com/VictorBSI))
 - Bhrunno Brito Medeiros (bhrunno.medeiros@gmail.com, [@Bhrunno](https://github.com/bhrunno))
+
+## Dupla [ANAISABELA_JOSEPAULO](duplas/Dupla_ANAISABELA_JOSEPAULO.md)
+- Ana Isabela Manito Ramos (aisabelamr@gmail.com, [@anaisabelamr](https://github.com/anaisabelamr))
+- José Paulo Neves (josepaulobrandaoneves13@gmail.com, [@pauloneves123](https://github.com/@pauloneves123))
